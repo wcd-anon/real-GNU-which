@@ -1,6 +1,6 @@
 ![a fuckin leaf](https://raw.githubusercontent.com/Chanon7/real-GNU-which/main/which.jpg)
 
-## If you want GNU `which`, go here:
+If you want GNU `which`, go here:
 
 https://ftp.gnu.org/gnu/which/
 
