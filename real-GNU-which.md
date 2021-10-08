@@ -19,5 +19,3 @@ make install clean
 
 Then you can (optionally) remove the fake which script at /usr/bin/which and either mv the newly installed /usr/local/bin/which to /usr/bin, symlink it, copy it, whatever and boom. You have real GNU which(1)
 
-# Credit
-taekicks
