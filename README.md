@@ -1,4 +1,4 @@
-![a fuckin leaf](https://codeberg.org/an0n7/real-GNU-which/raw/branch/main/which.jpg)
+![a fuckin leaf](https://raw.githubusercontent.com/Chanon7/real-GNU-which/main/which.jpg)
 
 ## If you want GNU `which`, go here:
 
@@ -19,5 +19,4 @@ make install clean
 
 Then you can (optionally) remove the fake which script at /usr/bin/which and either mv the newly installed /usr/local/bin/which to /usr/bin, symlink it, copy it, whatever and boom. You have real GNU which(1)
 
-# Credit
-taekicks
+
