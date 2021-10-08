@@ -1,6 +1,6 @@
 ![a fuckin leaf](https://raw.githubusercontent.com/Chanon7/real-GNU-which/main/which.jpg)
 
-If you want GNU `which`, go here:
+If you want GNU `which`, go here
 
 https://ftp.gnu.org/gnu/which/
 
@@ -9,7 +9,7 @@ wget which-2.21.tar.gz
 ```
 Ensure `gcc` and `make` are installed
 
-Extract the tarball and cd to the directory and run:
+Extract the tarball and cd to the directory and run
 ```
 ./configure
 ```
