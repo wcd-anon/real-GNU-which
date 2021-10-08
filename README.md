@@ -1,4 +1,4 @@
-![a fuckin leaf](https://codeberg.org/an0n7/real-GNU-which/raw/branch/main/which.jpg)
+![a fuckin leaf](https://raw.githubusercontent.com/Chanon7/real-GNU-which/main/which.jpg)
 
 ## If you want GNU `which`, go here:
 
